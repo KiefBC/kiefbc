@@ -12,8 +12,7 @@ Algorithms, Web Development, Backend Development.
 
 ## Tools I Use:
 
-![Python Logo](../../images/python.png "Python")
-{width="56" height="56"}
+[Imgur](https://i.imgur.com/X83Py67.png =56x56)
 
 Jetbrains
 Gitkraken
