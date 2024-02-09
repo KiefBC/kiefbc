@@ -18,4 +18,3 @@ Algorithms, Web Development, Backend Development.
 - I am currently learning Java and Rust
 - You can reach me via email: kiefx@pm.me
 - I use LinkedIN: kieferh
-- Twitter: @yoits_kief
