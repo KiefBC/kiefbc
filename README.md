@@ -4,7 +4,7 @@ I'm Kiefer, a passionate developer based in beautiful British Columbia, Canada. 
 
 I love diving into new languages and technologies, particularly fascinated by 🌐 **AI, Machine Learning, Deep Learning, and Neural Networks** 🧠. My continuous journey in tech has allowed me to master various languages and frameworks:
 
-- 🛠️ **Languages:** Rust, Swift, TypeScript, C#, C++, Ruby
+- 🛠️ **Languages:** Rust, Swift, TypeScript, C++, Ruby
 - 📚 **Frameworks:** Svelte, Leptos, React, Tauri, Ruby on Rails
 - 💾 **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
 - ☁️ **Platforms & Tools:** AWS, CLI mastery on POSIX systems (Linux/macOS), and Windows
