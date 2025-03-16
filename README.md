@@ -14,5 +14,5 @@ I regularly build engaging websites, sleek desktop applications, and I'm increas
 
 Feel free to reach out—I'm always excited to connect!
 
-🔗 **LinkedIn:** [Your LinkedIn URL]  
-📧 **Email:** [Your Email]
+🔗 **LinkedIn:** [My LinkedIN](https://www.linkedin.com/in/kieferh/)
+📧 **Email:** [My Email](kiefx@pm.me)
