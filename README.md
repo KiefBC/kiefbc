@@ -12,6 +12,4 @@ I love diving into new languages and technologies, particularly fascinated by ðŸ
 
 I regularly build, and I'm increasingly drawn to creating intuitive apps. I'm always on the lookout for new frameworks, tools, and challenges to enhance my skillset and stay at the forefront of this ever-evolving field.
 
-Feel free to reach outâ€”I'm always excited to connect!
-
 ###### Last Updated: 05-2025
