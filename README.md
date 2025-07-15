@@ -4,7 +4,7 @@ I'm Kiefer, a passionate developer based in beautiful British Columbia, Canada. 
 
 I love diving into new languages and technologies, particularly fascinated by **AI, Machine Learning, Deep Learning, and Neural Networks**.
 
-- **Languages:** Rust, Swift, C
+- **Languages:** Rust, Swift, C, Go
 - **Frameworks:** Svelte, Leptos, Tauri
 - **Databases:** PostgreSQL, MongoDB
 - ✏️ **Favorite Editor:** Neovim (btw!)
