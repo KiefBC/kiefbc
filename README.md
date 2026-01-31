@@ -13,6 +13,6 @@ I regularly build and practice, and I'm increasingly drawn to creating. All my p
 
 All projects are mirrored from my personal Git Server, so while It may show I have long spurts of no activity, be sure that I am still working and building.
 
-The story behind my avatar is that I purchased this for $15,000 during the NFT craze and fnow its worth $0.30 and I use it as a daily reminder of not to get caught up in the hype and stay level headed.
+The story behind my avatar is that I purchased this for $15,000 during the NFT craze and now its worth $0.30 and I use it as a daily reminder of not to get caught up in the hype and stay level headed.
 
 ###### Last Updated: 01-2026
