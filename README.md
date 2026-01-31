@@ -11,4 +11,6 @@ I love diving into new languages and technologies, particularly fascinated by **
 
 I regularly build and practice, and I'm increasingly drawn to creating. All my projects are written with guidance on efficiency by AI Code Reviews.
 
-###### Last Updated: 07-2025
+All projects are mirrored from my personal Git Server, so while It may show I have long spurts of no activity, be sure that I am still working and building.
+
+###### Last Updated: 01-2026
